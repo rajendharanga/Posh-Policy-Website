@@ -24,7 +24,7 @@ export const POLICY_METADATA = {
   company: "Shreyas Group",
   parentCompany: "A Division of Aadhyasree Infotainment",
   logoUrl: "https://static.wixstatic.com/media/14ff0a_34988c29359d4cc6b73a1b03273be836~mv2.png/v1/fill/w_330,h_170,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Shreyas-Logo-Png.png",
-  poshEmail: "swapna@shreyasgroup.net",
+  poshEmail: "support@shreyasgroup.net",
   poshPhone: "+917993028484",
   policyVersion: "V1.0",
   effectiveDate: "06 July 2026",
@@ -161,7 +161,7 @@ export const POLICY_SECTIONS: PolicySection[] = [
     title: "7. IC Contact Details",
     paragraphs: [
       "Location: Head Office – Hyderabad (Applicable across all Shreyas Group offices, branches, events and operational locations)",
-      "IC Contact Email: swapna@shreyasgroup.net",
+      "IC Contact Email: support@shreyasgroup.net",
       "Presiding Officer: Swapna Talluri"
     ]
   },
@@ -172,7 +172,8 @@ export const POLICY_SECTIONS: PolicySection[] = [
     bullets: [
       "A Presiding Officer – Swapna Talluri (Managing Partner, Shreyas Group)",
       "At least 2 internal members - Mr. Rajesh, Ms Shruti",
-      "1 external member – To be appointed"
+      "Internal Advisory Board - Raaaj (raj@shreyasgroup.net), Sudharma (sudharma@shreyasgroup.net)",
+      "1 external member – To be appointed (Once appointed, the details of the external member will be notified to everyone)"
     ],
     paragraphs: [
       "The IC is responsible for receiving complaints, conducting inquiries, and ensuring fair and unbiased resolution."
@@ -351,11 +352,12 @@ export const POLICY_SECTIONS: PolicySection[] = [
     id: "ic-contact-details-update",
     title: "IC Contact Details Update & Core Clarifications",
     paragraphs: [
-      "POSH Email: swapna@shreyasgroup.net",
+      "POSH Email: support@shreyasgroup.net",
       "Presiding Officer: Ms. Swapna Talluri",
       "Internal Member: Mr. Rajesh",
       "Internal Member: Ms. Shruti",
-      "External Member: To Be Appointed",
+      "Internal Advisory Board: Raaaj (raj@shreyasgroup.net), Sudharma (sudharma@shreyasgroup.net)",
+      "External Member: To Be Appointed (Once appointed, the details of the external member will be notified to everyone)",
       "Employee Responsibility Clarification: Mere inability to substantiate a complaint shall not by itself constitute a false complaint. Action may be recommended only where malicious intent is established after inquiry.",
       "Evidence Standards Amendment: Digital evidence may be considered subject to verification of authenticity, completeness and context."
     ]

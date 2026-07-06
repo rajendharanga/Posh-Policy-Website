@@ -27,8 +27,8 @@ Managers must model respectful behavior, proactively prevent harassment, and imm
 The Employer is obligated to maintain a safe environment, display penal consequences prominently, and conduct regular sensitization programs.
 
 Internal Committee Structure:
-The Internal Committee is the only authorized body to investigate complaints. It is head-officed in Hyderabad, and headed by Presiding Officer Ms. Swapna Talluri. Internal members are Mr. Rajesh and Ms. Shruti.
-Grievances can be emailed securely to swapna@shreyasgroup.net.
+The Internal Committee is the only authorized body to investigate complaints. It is head-officed in Hyderabad, and headed by Presiding Officer Ms. Swapna Talluri. Internal members are Mr. Rajesh and Ms. Shruti. The Internal Advisory Board consists of Raaaj (raj@shreyasgroup.net) and Sudharma (sudharma@shreyasgroup.net).
+Grievances can be emailed securely to support@shreyasgroup.net.
 
 Complaint Procedure:
 Complaints must be submitted in writing or email to the IC within 3 months of the incident. Inquiries are completed within 90 days, and final reports are submitted to management within 10 days of completion. Interim measures like transfers or up to 3 months leave can be recommended during investigations. Absolute confidentiality is maintained.
