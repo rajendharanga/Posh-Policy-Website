@@ -1,0 +1,6 @@
+{
+  "name": "Shreyas Group POSH Policy Portal",
+  "description": "Official POSH Policy portal for Shreyas Group (A Division of Aadhyasree Infotainment). Provides a premium, interactive, and beautifully designed interface for employees, interns, vendors, and partners to read the policy and submit acknowledgements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
